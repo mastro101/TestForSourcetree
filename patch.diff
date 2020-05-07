@@ -1,0 +1,23 @@
+From 6463fbd75cf85b05b376f4036e20bb2b57111184 Mon Sep 17 00:00:00 2001
+From: Matteo Mastropasqua <teo.mastropasqua@gmail.com>
+Date: Thu, 7 May 2020 16:45:06 +0200
+Subject: [PATCH] cafonata
+
+---
+ Assets/CoseGiuste/CoseCorrette.txt | 4 +++-
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+
+diff --git a/Assets/CoseGiuste/CoseCorrette.txt b/Assets/CoseGiuste/CoseCorrette.txt
+index a4d9034..db4ef99 100644
+--- a/Assets/CoseGiuste/CoseCorrette.txt
++++ b/Assets/CoseGiuste/CoseCorrette.txt
+@@ -1 +1,3 @@
+-Cose Giuste belle e profumate
+\ No newline at end of file
++Cose Giuste belle e profumate
++
++catrame sigarette schifo
+\ No newline at end of file
+-- 
+2.18.0.windows.1
+
